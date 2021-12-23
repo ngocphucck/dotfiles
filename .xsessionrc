@@ -1,0 +1,9 @@
+# Status bar
+~/.config/dwm-6.2/bar/./bar.sh &
+
+# Enable ibus-bamboo
+ibus-daemon &
+
+# Wallpaper
+nitrogen --restore 
+
